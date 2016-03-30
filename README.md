@@ -1,9 +1,10 @@
 # VerticalDrawerLayout
-一个垂直方向的DrawerLayout
-抽屉从上向下展开
-不支持手势哦
-
-![image](https://github.com/corerzhang/VerticalDrawerLayout/raw/master/screenshots/demo.gif)
+一个垂直方向的DrawerLayout,抽屉从上向下展开
+<table sytle="border: 0px;">
+<tr>
+<td><img width="200px" src="https://github.com/corerzhang/VerticalDrawerLayout/raw/master/screenshots/demo.gif" /></td>
+</tr>
+</table>
 
 ```xml  
   <me.corer.verticaldrawerlayout.VerticalDrawerLayout
